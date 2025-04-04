@@ -1,12 +1,11 @@
 [![DOI](https://zenodo.org/badge/776011771.svg)](https://zenodo.org/doi/10.5281/zenodo.12699084)
 
-## Not so FAIR astronaut data analysis code
+## Not so good astronaut data analysis code
 
 This repository contains a helper software project with some code to be used 
-for the [FAIR research software course](https://github.com/carpentries-incubator/fair-research-software). 
+for the ["Software tools and practices for open and reproducible research" course](https://github.com/carpentries-incubator/fair-research-software). 
 
-This repository is an example of "not so FAIR" software that is meant to be improved over the course to show examples of better 
-and more FAIR software practices. 
+This repository is an example of "not so good" software that is meant to be improved over the course to show examples of better research software practices (including some aspects of FAIR). 
 
 Various branches of this repository represent the state of the code as it should be at the start of each of the course episodes:
 
@@ -38,7 +37,7 @@ to be used in conjuction with this repository during the course - this is the co
 
 #### Data
 
-The data used on in this project was obtained from NASA as follows.
+The data used on in this project is open data provided by NASA and obtained as follows.
 
 Data source: https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn/about_data.
 
