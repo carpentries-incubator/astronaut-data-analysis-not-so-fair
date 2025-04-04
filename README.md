@@ -33,6 +33,10 @@ An example of better and more FAIR code that participants should strive to achie
 can be found at the [astronaut-data-analysis-fair repository](https://github.com/carpentries-incubator/astronaut-data-analysis-fair), 
 to be used in conjuction with this repository during the course - this is the code that participants should have at the end of the course.
 
+### License
+
+Copyright of code in this project remains with authors or their organisations and is licensed under MIT. For data used - see [data section](#data).
+
 ### Acknowledgements
 
 #### Data
