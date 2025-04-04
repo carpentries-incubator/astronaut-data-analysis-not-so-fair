@@ -25,8 +25,7 @@ The code uses the [NASA data on human space walks (Extravehicular activities - E
 exported/downloaded in JSON format, does some analysis over this data, plots a few graphs and saves the data in CSV format. 
 
 ### Things to improve
-There is a number of things that are wrong or not so FAIR with this code and that can be improved. We maintain that list at issue
-https://github.com/carpentries-incubator/astronout-data-analyses-bad/issues/2.
+There is a number of things that are wrong with this code and that can be improved - we maintain that list as [an issue](https://github.com/carpentries-incubator/astronout-data-analyses-bad/issues/2).
 
 ### Better code
 An example of better and more FAIR code that participants should strive to achieve when writing their reseach software 
