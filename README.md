@@ -35,7 +35,7 @@ to be used in conjuction with this repository during the course - this is the co
 
 ### License
 
-Copyright of code in this project remains with [authors](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-fair/graphs/contributors) or their organisations and is licensed under MIT. For data used - see [data section](#data).
+Copyright of code in this project remains with [authors](https://github.com/carpentries-incubator/astronaut-data-analysis-not-so-fair/graphs/contributors) or their organisations and is licensed under [MIT licence](LICENSE). For data used - see [data section](#data).
 
 ### Acknowledgements
 
